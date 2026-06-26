@@ -42,10 +42,18 @@ def _save(data):
 def run():
     data = _load()
     deals = data.get("deals", [])
+    if not deals:
+        log("deals.json is empty. Add some products.")
+        return
     nxt = next((d for d in deals if not d.get("posted")), None)
     if not nxt:
-        log("No unposted deals left. Add more products to deals.json.")
-        return
+        # all posted once -> loop the list again (Gemini writes fresh captions
+        # each cycle, so it never runs dry even with a fixed product list)
+        for d in deals:
+            d["posted"] = False
+        _save(data)
+        nxt = deals[0]
+        log("Looped: re-posting the product list with fresh captions.")
 
     link = affiliate.affiliate_link(nxt["url"])
     cap = caption.make_caption(nxt["title"])
