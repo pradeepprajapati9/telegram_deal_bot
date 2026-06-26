@@ -1,18 +1,78 @@
 {
   "deals": [
     {
-      "title": "boAt Rockerz 450 Bluetooth Headphones",
-      "url": "https://www.amazon.in/dp/B08TV2P5HF",
+      "title": "Today's Top Amazon Deals",
+      "url": "https://www.amazon.in/deals",
       "posted": true
     },
     {
-      "title": "Redmi 13C Smartphone",
-      "url": "https://www.amazon.in/dp/B0CMDRDR9D",
-      "posted": true
+      "title": "Top Wireless Earbuds Deals",
+      "url": "https://www.amazon.in/s?k=wireless+earbuds",
+      "posted": false
     },
     {
-      "title": "Noise ColorFit Smart Watch",
-      "url": "https://www.amazon.in/dp/B0BX6PGFNG",
+      "title": "Trending Smart Watches",
+      "url": "https://www.amazon.in/s?k=smartwatch",
+      "posted": false
+    },
+    {
+      "title": "Best Power Banks",
+      "url": "https://www.amazon.in/s?k=power+bank",
+      "posted": false
+    },
+    {
+      "title": "Top Bluetooth Speakers",
+      "url": "https://www.amazon.in/s?k=bluetooth+speaker",
+      "posted": false
+    },
+    {
+      "title": "Men's Grooming & Trimmers",
+      "url": "https://www.amazon.in/s?k=trimmer+for+men",
+      "posted": false
+    },
+    {
+      "title": "Best Kitchen Appliances",
+      "url": "https://www.amazon.in/s?k=kitchen+appliances",
+      "posted": false
+    },
+    {
+      "title": "Top Mobile Accessories",
+      "url": "https://www.amazon.in/s?k=mobile+accessories",
+      "posted": false
+    },
+    {
+      "title": "Trending Headphones",
+      "url": "https://www.amazon.in/s?k=headphones",
+      "posted": false
+    },
+    {
+      "title": "Best Selling Books",
+      "url": "https://www.amazon.in/s?k=bestseller+books",
+      "posted": false
+    },
+    {
+      "title": "Top Men's Fashion Deals",
+      "url": "https://www.amazon.in/s?k=men+fashion",
+      "posted": false
+    },
+    {
+      "title": "Beauty & Skincare Deals",
+      "url": "https://www.amazon.in/s?k=beauty+skincare",
+      "posted": false
+    },
+    {
+      "title": "Home & Decor Deals",
+      "url": "https://www.amazon.in/s?k=home+decor",
+      "posted": false
+    },
+    {
+      "title": "Fitness & Sports Gear",
+      "url": "https://www.amazon.in/s?k=fitness+equipment",
+      "posted": false
+    },
+    {
+      "title": "Laptop & Computer Deals",
+      "url": "https://www.amazon.in/s?k=laptop",
       "posted": false
     }
   ]
