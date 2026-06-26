@@ -1,0 +1,19 @@
+{
+  "deals": [
+    {
+      "title": "boAt Rockerz 450 Bluetooth Headphones",
+      "url": "https://www.amazon.in/dp/B08TV2P5HF",
+      "posted": true
+    },
+    {
+      "title": "Redmi 13C Smartphone",
+      "url": "https://www.amazon.in/dp/B0CMDRDR9D",
+      "posted": true
+    },
+    {
+      "title": "Noise ColorFit Smart Watch",
+      "url": "https://www.amazon.in/dp/B0BX6PGFNG",
+      "posted": false
+    }
+  ]
+}

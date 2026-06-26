@@ -1,0 +1,8 @@
+# ===== Secrets - NEVER commit =====
+.env
+
+# ===== Python / runtime =====
+venv/
+__pycache__/
+*.pyc
+bot.log

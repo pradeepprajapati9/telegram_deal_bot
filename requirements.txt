@@ -1,0 +1,2 @@
+requests          # Telegram + Gemini HTTP calls
+python-dotenv      # load .env config
